@@ -14,6 +14,4 @@
     box-sizing: border-box;     
 }
 
-.box:hover {
-    border-style: dashed;  /* Muda a borda para tracejada no hover */
-    border-color: black;   /* Muda a cor da borda no hover (opcional) */
+
